@@ -1,0 +1,14 @@
+.pervisa {
+    display: block;
+    background-color: rgb(71, 89, 255);
+    margin: 20px;
+    padding: 50px;
+  }
+
+  .perpuse {
+    display: inline-block;
+    background-color: rgb(209, 255, 71);
+    border: 2px solid rgb(209, 255, 71);
+    margin-left: 110px;
+    padding: 170px;
+  }
