@@ -1,11 +1,10 @@
-.pagrindinis  {
+.pagrindinis {
     display: block;
     background-color: rgb(238, 230, 218);
     width: 80%;
     height: 500px;
     margin: 20px;
     padding: 20px;
-    
 }
 .soniniai {
     display: inline-block;
@@ -20,8 +19,8 @@
     display: block;
     background-color: rgb(175, 153, 116);
     width: 80%;
-    height: 20px;
-    margin: 8%;
+    height: 40px;
+    margin: 7%;
     padding: 2%;
 }
 .vidurys {
@@ -36,18 +35,35 @@
 .duvirsutiniai {
     display: inline-block;
     background-color: rgb(175, 153, 116);
-    width: 15%;
-    height: 40px;
+    width: 32%;
+    height: 60px;
     margin: 5%;
     padding: 3%;
 }
 
 .blokaskaire {
-    display: inline-block;
+    display: block;
     background-color: rgb(175, 153, 116);
-    width: 15%;
-    height: 40px;
+    width: 32%;
+    height: 60px;
     margin: 5%;
     padding: 3%;
 }
+.pailgaskaire {
+    display: inline-block;
+    background-color: rgb(175, 153, 116);
+    width: 50%;
+    height: 60px;
+    margin: 5%;
+    padding: 3%;
+}
+.blokasdesine {
+    display: inline-block;
+    background-color: rgb(175, 153, 116);
+    width: 15%;
+    height: 60px;
+    margin: 5%;
+    padding: 3%;
+}
+
 
